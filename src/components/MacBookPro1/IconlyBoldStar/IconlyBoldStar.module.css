@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 49px;
+  top: 692px;
+  width: 14px;
+  height: 14px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.star {
+  position: absolute;
+  left: 1.1663px;
+  top: 1.4584px;
+  width: 11.6682px;
+  height: 11.0841px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 87.027%;
+  top: -91.8367%;
+  bottom: 142.8571%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.twoToneCommunicationLocation_o {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

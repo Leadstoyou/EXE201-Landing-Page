@@ -1,0 +1,23 @@
+.root {
+  transform-origin: top left;
+  position: absolute;
+  left: 561.9465px;
+  top: 45.0928px;
+  width: 40px;
+  height: 40px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: matrix(0.8648, 0.502, -0.502, 0.8648, 0, 0);
+}
+.heart {
+  position: absolute;
+  left: 4.1666px;
+  top: 5px;
+  width: 31.6618px;
+  height: 29.9972px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

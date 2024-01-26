@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 57.1429%;
+  top: 0;
+  bottom: 57.1429%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.outlinedNavigationArrow_back {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

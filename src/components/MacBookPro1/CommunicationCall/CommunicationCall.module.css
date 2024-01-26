@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 84.2105%;
+  top: -660%;
+  bottom: 664%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.outlinedCommunicationCall {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
